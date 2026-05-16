@@ -4,7 +4,7 @@ MSc Biological Sciences: Evolution of Behaviour and Mind.
 
 **Thesis title:** Hypervigilance as an Adaptive Response: A State-Dependent Dynamic Optimisation Model.
 
-This repository contains the reviewer-facing R code for a thesis project on hypervigilance as an adaptive response in dynamic environments. It includes dynamic programming models, forward simulation helpers, figure and table pipelines, selected final outputs, tests, and an interactive Shiny app.
+This repository contains the R code for a thesis project on hypervigilance as an adaptive response in dynamic environments. It includes dynamic programming models, forward simulation helpers, figure and table pipelines, selected final outputs, tests, and an interactive Shiny app.
 
 Hypervigilance is treated as vigilance-environment mismatch: the optimal policy chooses vigilance, but no stressor occurs at the next step. This can be costly in the short term while still being adaptive when vigilance protects against larger damage if a stressor appears.
 
