@@ -1,0 +1,31 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Recreated by model and plotting scripts
+cache/
+data/cache/
+outputs/cache/
+outputs/tmp/
+Rplots.pdf
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private working-agent files from the source workspace
+.claude/
+archive/
+
+# Temporary scripts and scratch files
+temp_*.R
+temp_*.py
+tmp.*
+*.tmp
+
+# renv local library; keep renv.lock if generated
+renv/library/
+renv/staging/
